@@ -23,5 +23,5 @@ Contents: 232,148 rows and 18 columns. This dataset has columns describing featu
 
 The choropleth visualizations were created using a [United States JSON](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) dataset sourced from Career Foundry and hosted on Amazon S3, which contains US mapping data.
 
-
-
+# Project Final Report
+The Tableau Storyboard report for this analysis can be found here: [Airbnb Listings and Hosts Analysis](https://public.tableau.com/app/profile/bazilla.imran/viz/Airbnb_17139699756510/AirbnbAnalysis?publish=yes) Not every element of the analysis is contained on the Tableau Storyboard, only the relevant and final results.
