@@ -17,11 +17,11 @@ Airbnb has transformed travel, offering unique accommodations worldwide. Underst
 - Which numeric variables in the dataset demonstrate correlation, and how strong or weak are these correlations?
 
 # Data
-This dataset is a compilation of multiple datasets found on Inside Airbnb and is publicly accessible on Kaggle, making it an external data source. Its location on Kaggle, a reputable platform for data science projects, adds credibility to its trustworthiness. Dataset was recompiled and updated in the same format on 14th April 2023. 
+This dataset is a compilation of multiple datasets found on Inside Airbnb and is publicly accessible on Kaggle, making it an external data source. Its location on [Kaggle](https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data?resource=download&select=AB_US_2023.csv), a reputable platform for data science projects, adds credibility to its trustworthiness. Dataset was recompiled and updated in the same format on 14th April 2023. 
 
 Contents: 232,148 rows and 18 columns. This dataset has columns describing features such as host id, hostname, listing id, listing name, calculated listings per host, latitude and longitude of listing, neighbourhood, neightbourhood groups, price, room type, minimum number of nights, number of reviews, last review date, reviews per month, availability, host listings and city.
 
-The choropleth visualizations were created using a [United States JSON](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) dataset sourced from Career Foundry and hosted on Amazon S3, which contains world mapping data.
+The choropleth visualizations were created using a [United States JSON](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json) dataset sourced from Career Foundry and hosted on Amazon S3, which contains US mapping data.
 
 
 
