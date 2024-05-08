@@ -1,5 +1,5 @@
 # Airbnb-US-Data-Analysis
-<![Alt text](https://blog.logomyway.com/wp-content/uploads/2020/03/airbnb-logo.jpg)>
+<img src="https://blog.logomyway.com/wp-content/uploads/2020/03/airbnb-logo.jpg" alt="Airbnb Logo" width="200" height="200">
 
 
 Data analytics project looking at the correlations and demographics for Airbnb US dataset.
